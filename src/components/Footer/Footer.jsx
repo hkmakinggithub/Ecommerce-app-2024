@@ -22,7 +22,7 @@ const Footer = () => {
         {/* Company Info */}
         <div>
           <h1 className="text-2xl font-bold flex items-center gap-2 mb-4">
-            <FiShoppingBag size={30} /> ShopMe
+            <FiShoppingBag size={30} />  BRINED'CLOTH
           </h1>
           <p className="text-gray-400 text-sm">
             Your go-to online store for the best deals and quality products.
